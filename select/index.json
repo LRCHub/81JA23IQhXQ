@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Cloud",
+  "base_artist": "Galdive",
+  "createdAt": "2026-03-08T06:48:43.770144Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Outlive The War (Feat Sean Price & Block Mc Cloud)",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/01_Outlive_The_War_(Feat_Sean_Price_&_Block_Mc_Cloud)_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Falling from Cloud 9",
+      "artist": "Lift to Experience",
+      "has_synced": false,
+      "path": "select/02_Falling_from_Cloud_9_Lift_to_Experience.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Just a Cloud",
+      "artist": "Lusine feat. Vilja Larjosto",
+      "has_synced": true,
+      "path": "select/03_Just_a_Cloud_Lusine_feat._Vilja_Larjosto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Dark Cloud Is Coming",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/04_A_Dark_Cloud_Is_Coming_Moby.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Black Cloud",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/05_Black_Cloud_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cloud Body",
+      "artist": "Main Attrakionz",
+      "has_synced": true,
+      "path": "select/06_Cloud_Body_Main_Attrakionz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Born On a Different Cloud",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/07_Born_On_a_Different_Cloud_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You're Not Alone (Matthew Roberts' Cloud 10 mix)",
+      "artist": "Olive",
+      "has_synced": false,
+      "path": "select/08_You're_Not_Alone_(Matthew_Roberts'_Cloud_10_mix)_Olive.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You're Not Alone (Matthew Roberts' Cloud 10 Remix)",
+      "artist": "Olive",
+      "has_synced": false,
+      "path": "select/09_You're_Not_Alone_(Matthew_Roberts'_Cloud_10_Remix)_Olive.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Big White Cloud",
+      "artist": "John Cale",
+      "has_synced": true,
+      "path": "select/10_Big_White_Cloud_John_Cale.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Black Cloud",
+      "artist": "Trapeze",
+      "has_synced": false,
+      "path": "select/11_Black_Cloud_Trapeze.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Black Cloud",
+      "artist": "Trapeze",
+      "has_synced": true,
+      "path": "select/12_Black_Cloud_Trapeze.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cloud Walker",
+      "artist": "Sylvan Esso",
+      "has_synced": true,
+      "path": "select/13_Cloud_Walker_Sylvan_Esso.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cloud 9",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/14_Cloud_9_Jamiroquai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cloud",
+      "artist": "Galdive",
+      "has_synced": false,
+      "path": "select/pl_01_Cloud_Galdive.txt"
+    }
+  ]
+}
